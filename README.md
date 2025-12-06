@@ -4,17 +4,21 @@ A PySide6-based GUI application for automated nuclei detection and counting in m
 
 ## Screenshot
 
-![GUI Screenshot](screenshot/gui_screenshot.png)
+<img src="screenshot/gui_screenshot.png" width="800">
 
 ## Example Results
 
 ### Input Images
-![Input 1](input_imagess/image_1_input_image.png)
-![Input 2](input_imagess/image_2_input_image.png)
+<p align="center">
+  <img src="input_imagess/image_1_input_image.png" width="400">
+  <img src="input_imagess/image_2_input_image.png" width="400">
+</p>
 
 ### Output Images (with detected nuclei)
-![Output 1](output_imagess/image_1_out_image.png)
-![Output 2](output_imagess/image_2_out_image.png)
+<p align="center">
+  <img src="output_imagess/image_1_out_image.png" width="400">
+  <img src="output_imagess/image_2_out_image.png" width="400">
+</p>
 
 ## Features
 
@@ -94,8 +98,10 @@ output_folder/
 
 ### CSV Output Examples
 
-![CSV Output 1](screenshot/image_1_csv.png)
-![CSV Output 2](screenshot/image_2_csv.png)
+<p align="center">
+  <img src="screenshot/image_1_csv.png" width="400">
+  <img src="screenshot/image_2_csv.png" width="400">
+</p>
 
 ## StarDist Models
 
