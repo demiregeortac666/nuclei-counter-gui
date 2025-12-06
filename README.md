@@ -92,6 +92,11 @@ output_folder/
 - **`*_overlay.png`**: Visual overlay of detected nuclei on original image
 - **Summary table**: In-app table showing counts for all processed images
 
+### CSV Output Examples
+
+![CSV Output 1](screenshot/image_1_csv.png)
+![CSV Output 2](screenshot/image_2_csv.png)
+
 ## StarDist Models
 
 Available pre-trained models:
